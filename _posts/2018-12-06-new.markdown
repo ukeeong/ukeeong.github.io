@@ -1,1 +1,8 @@
+---
+layout: post
+title:  "유키옹 개발일지"
+date:   2018-12-06 05:32
+categories: diaries
+---
+
 new blog!
