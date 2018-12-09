@@ -9,7 +9,7 @@ categories: diaries
 어설픈 개발자의 게임 개발일지를 남기기 위해서 어떤 플랫폼에 기록을 남길까 하다가 깃허브 블로그를 사용해보기로 했다.<br>
 일단 개발을 하겠다고 블로그부터 만드는거 자체가 웃기긴 하지만 깃허브가 익숙하지 않은 상태에서<br>
 페이지를 개설하고 테마를 가져와 조금씩 수정하는 작업 자체가 도전적이고 재미있었다<br>
-우여곡절 끝에 드디어 블로그를 개설에 성공했다!<img width="18px" height="18px" src="/images/emj_clap.png"><img width="18px" height="18px" src="/images/emj_clap.png"><img width="18px" height="18px" src="/images/emj_clap.png"><img width="18px" height="18px" src="/images/emj_clap.png"><img width="18px" height="18px" src="/images/emj_clap.png"><br>
+우여곡절 끝에 드디어 블로그를 개설에 성공했다!<img width="18px" height="18px" src="/images/emj_clap.png"><img width="18px" height="18px" src="/images/emj_clap.png"><img width="18px" height="18px" src="/images/emj_clap.png"><br>
 
 <br>
 게임 개발은 유니티와 c#을 이용해서 할 예정.<br>
