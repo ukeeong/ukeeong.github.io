@@ -23,4 +23,6 @@ Collapsible until here.
 </p></details>
 
 
+data:text/html,<!doctype html><summary style="list-style: none">Summary<details style="list-style: none">Crap</details></summary> <details style="list-style: none"><summary \style="list-style: none">Wow</summary>Wowing</details>
+
 
