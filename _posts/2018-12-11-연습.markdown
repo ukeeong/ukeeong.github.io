@@ -6,31 +6,6 @@ categories: iaries
 ---
 <br>
 <br>
-
-<details>
-  <summary::-webkit-details-marker {
-    display: none;
-}> 
-   
-    Click to expand</summary>
-  whatever
-</details>
-
-<details><summary>stuff with *mark* **down**</summary><p>
-
-## _formatted_ **heading** with [a](link)
-
----
-{{standard 3-backtick code block omitted from here due to escaping issues}}
----
-
-Collapsible until here.
-</p></details>
-
-<!doctype html><summary style="list-style: none">Summary<details style="list-style: none">Crap</details></summary> <details style="list-style: none"><summary \style="list-style: none">Wow</summary>Wowing</details>
-
-
-
       
       
   <details id="custom-marker">
