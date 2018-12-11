@@ -9,8 +9,8 @@ categories: iaries
       
       
   <details>
-  <summary>Custom Marker</summary>
-  <p>Here be some content... yarr!</p>
+  <summary>글 숨기기</summary>
+  <p>숨은 글 쓰는곳 ^.^</p>
   </details>
 
 
