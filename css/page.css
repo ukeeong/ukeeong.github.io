@@ -166,6 +166,22 @@
 } */
 
 	
+summary {
+  background: #333;
+  color: #FFF;
+  border-radius: 3px;
+  padding: 5px 10px;
+  outline: none;
+}
+
+/* Style the summary when details box is open */
+details[open] summary {
+  background: #69c773;
+  color: #333;
+}
+
+
+	
 #custom-marker summary {
   font-size: 17px;
   vertical-align: top;
@@ -175,7 +191,7 @@
   display: none;
 }
 
-#custom-marker summary:before {
+/* #custom-marker summary:before {
   display: inline-block;
   width: 18px;
   height: 18px;
@@ -184,7 +200,7 @@
   background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-icon-sprite.png);
   background-repeat: no-repeat;
   background-position: 0 0;
-}
+} */
 
 #custom-marker[open] summary:before {
   background-position: -18px 0;
