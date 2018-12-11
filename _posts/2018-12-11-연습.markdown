@@ -6,8 +6,13 @@ categories: Diaries
 ---
 <br>
 <br>
+
 <details>
-  <summary style="list-style: none">Click to expand</summary>
+  <summary> 
+    summary::-webkit-details-marker {
+    display: none;
+}
+    Click to expand</summary>
   whatever
 </details>
 
