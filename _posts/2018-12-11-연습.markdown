@@ -30,3 +30,7 @@ Collapsible until here.
 <!doctype html><summary style="list-style: none">Summary<details style="list-style: none">Crap</details></summary> <details style="list-style: none"><summary \style="list-style: none">Wow</summary>Wowing</details>
 
 
+
+<details id="custom-marker:none">
+    <summary>Custom Marker</summary>
+    <p>Here be some content... yarr!
