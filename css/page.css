@@ -153,18 +153,19 @@
 
 	
 	
-	
-	
-/* 
-#page-wrapper {
-  width: 640px;
-  background: #FFFFFF;
-  padding: 1em;
-  margin: 1em auto;
-  border-top: 5px solid #69c773;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.8);
-} */
 
+	
+	
+	
+	
+	
+
+summary::-webkit-details-marker {
+  color: #B6B6B6;
+  font-size: 20px;
+  margin-right: 2px;
+}
+	
 	
 summary {
   background: #333;
