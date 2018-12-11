@@ -6,11 +6,11 @@ categories: Diaries
 ---
 <br>
 <br>
- summary::-webkit-details-marker {
-    display: none;
-}
+
 <details>
-  <summary> 
+  <summary::-webkit-details-marker {
+    display: none;
+}> 
    
     Click to expand</summary>
   whatever
