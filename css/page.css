@@ -150,3 +150,42 @@
 	.category-box-sub a:hover,.category-sub-title:hover {
 		padding-left:0;
 	}
+
+	
+	
+	
+	
+/* 
+#page-wrapper {
+  width: 640px;
+  background: #FFFFFF;
+  padding: 1em;
+  margin: 1em auto;
+  border-top: 5px solid #69c773;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.8);
+} */
+
+	
+#custom-marker summary {
+  font-size: 17px;
+  vertical-align: top;
+}
+
+#custom-marker summary::-webkit-details-marker {
+  display: none;
+}
+
+#custom-marker summary:before {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  content: "";
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-icon-sprite.png);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
+#custom-marker[open] summary:before {
+  background-position: -18px 0;
+}
