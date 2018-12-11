@@ -6,13 +6,21 @@ categories: Diaries
 ---
 <br>
 <br>
-<hidden 숨긴상태에서 보일글> 여기서 부터는 접힌 것을 풀어야만 보인다. </hidden>
-<br>
-<br>
-++++ 접혀있을 때 보일 문장 | 여기서 부터는 접힌 것을 풀어야만 보인다. ++++
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
 
+<details><summary>stuff with *mark* **down**</summary><p>
 
+## _formatted_ **heading** with [a](link)
 
+---
+{{standard 3-backtick code block omitted from here due to escaping issues}}
+---
+
+Collapsible until here.
+</p></details>
 
 
 
