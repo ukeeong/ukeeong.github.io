@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "연습"
+title:  ""
 date:   2018-12-11 02:38
 categories: diaries
 ---
