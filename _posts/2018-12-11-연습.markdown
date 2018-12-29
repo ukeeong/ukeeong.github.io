@@ -2,14 +2,20 @@
 layout: post
 title:  "연습"
 date:   2018-12-11 02:38
-categories: iaries
+categories: diaries
 ---
 <br>
 <br>
       
-      
+  
+  오늘 목표
+  
+  게임 시작 후 손님이 와서 주문하는 것 까지
+ 
+  
+  
   <details>
-  <summary>글 숨기기</summary>
+  <summary>숨김글 연습</summary>
   <p>숨은 글 쓰는곳 ^.^</p>
   </details>
 
